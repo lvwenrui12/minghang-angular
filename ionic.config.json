@@ -1,0 +1,8 @@
+{
+  "name": "minghang-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d2493ac2"
+}
